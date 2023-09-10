@@ -1,0 +1,13 @@
+.quienes{
+    padding: 5rem;
+    text-align: center;
+    background-color: #FFF7EC;
+}
+
+@media screen and (min-width:768px) {
+
+    .quienes{
+        padding: 3rem;
+     }
+     
+ }

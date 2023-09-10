@@ -1,0 +1,16 @@
+.receta__titulo{
+    color: #000;
+    font-family: Roboto;
+    font-size: 1.8rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+@media screen and (min-width:768px) {
+
+    .receta__titulo{
+     font-size: 1.2rem;
+     }
+     
+ }

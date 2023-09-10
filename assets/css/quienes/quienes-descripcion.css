@@ -1,0 +1,17 @@
+.quienes__descripcion{
+    color: #101C12;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 1.8rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+@media screen and (min-width:768px) {
+
+    .quienes__descripcion{
+        font-size: 1.5rem;
+     }
+     
+ }
